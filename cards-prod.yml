@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EazyBank cards related production APIs "
+  contactDetails:
+    name: "Khanh Pham - CEO"
+    email: "khanh@eazybank.com"
+  onCallSupport:
+    - (888) 222-4245
+    - (888) 444-6564

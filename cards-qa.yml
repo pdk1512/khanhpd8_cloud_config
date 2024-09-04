@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank cards related QA APIs "
+  contactDetails:
+    name: "Samantha - QA Lead"
+    email: "samantha@eazybank.com"
+  onCallSupport:
+    - (666) 777-3456
+    - (666) 432-3217
