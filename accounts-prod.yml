@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related production APIs HEHEHEHEHEHEHE"
+  message: "Welcome to EazyBank accounts related production APIs"
   contactDetails:
     name: "Khanh Pham - CEO"
     email: "{cipher}75578e6e992b2424cf44b94192796b44fda1a22e45f8a53a967d4c1ee1e4be1a58ad72246b5097e68eb241aad14cc945"
